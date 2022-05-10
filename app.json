@@ -1,0 +1,21 @@
+{
+    "name":"somebody",
+    "description":"simple learning centre bot",
+    "repository":"https://github.com/ABULQOSIMRafiqov/nanotech",
+    "logo":"",
+    "keywords":[
+        "python",
+        "bot"
+    ],
+    "env":{
+        "SUPERNAME":{
+            "description":"haha bu joyi hazil",
+            "required":false
+        },
+    },
+    "buildpacks":[
+        {
+            "url":"heroku/python"
+        }
+    ]
+}

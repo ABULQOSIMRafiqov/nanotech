@@ -1,0 +1,1 @@
+from .holatlar import Data
