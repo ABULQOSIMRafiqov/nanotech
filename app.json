@@ -1,5 +1,5 @@
 {
-    "name":"somebody",
+    "name":"somebody help me",
     "description":"simple learning centre bot",
     "repository":"https://github.com/ABULQOSIMRafiqov/nanotech",
     "logo":"https://telegra.ph/file/9f670b987d2b3565a3bcb.jpg",
@@ -10,12 +10,12 @@
     "env":{
         "SUPERNAME":{
             "description":"haha bu joyi hazil",
-            "required":false
-        },
+            "required":true
+        }
     },
     "buildpacks":[
         {
             "url":"heroku/python"
-        },
+        }
     ]
 }
