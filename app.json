@@ -2,6 +2,7 @@
     "name":"somebody",
     "description":"simple learning centre bot",
     "repository":"https://github.com/ABULQOSIMRafiqov/nanotech",
+    "logo":"https://telegra.ph/file/9f670b987d2b3565a3bcb.jpg",
     "keywords":[
         "python",
         "bot"
