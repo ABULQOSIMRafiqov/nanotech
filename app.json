@@ -5,14 +5,8 @@
     "logo":"https://telegra.ph/file/9f670b987d2b3565a3bcb.jpg",
     "keywords":[
         "python",
-        "bot"
+        "botme"
     ],
-    "env":{
-        "SUPERNAME":{
-            "description":"haha bu joyi hazil",
-            "required":true
-        }
-    },
     "buildpacks":[
         {
             "url":"heroku/python"
